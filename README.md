@@ -1,8 +1,5 @@
 # Análisis y Replicación: Puntuación de Alineamientos mediante Similitud de Vectores de Incrustación (E-Score)
 
-**Autor:** Jazmín Pérez Villasante  
-**Institución:** Universidad Nacional de San Agustín de Arequipa (UNSA) - Escuela Profesional de Ciencia de la Computación  
-
 ## Descripción del Proyecto
 
 Este repositorio contiene la implementación empírica, replicación y análisis comparativo del artículo científico *"Scoring alignments by embedding vector similarity"*. El objetivo principal es evaluar la precisión de los alineamientos de secuencias biológicas (proteínas) contrastando algoritmos clásicos basados en matrices de sustitución estáticas frente a enfoques modernos de Inteligencia Artificial que utilizan modelos de lenguaje grandes (LLMs) y representaciones vectoriales contextuales.
